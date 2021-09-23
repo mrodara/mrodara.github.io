@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## IMPLATANACIÓN DE APLICACIONES WEB
+## IMPLANTACIÓN DE APLICACIONES WEB
 
 ### PRESENTACIONES  
 
@@ -14,6 +14,4 @@ layout: default
 
 ### ENLACES INTERESANTES
 
-_yay_
-
-[back](./)
+[back](https://mrodara.github.io)

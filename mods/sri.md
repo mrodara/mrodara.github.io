@@ -14,6 +14,4 @@ layout: default
 
 ### ENLACES INTERESANTES
 
-_yay_
-
-[back](./)
+[back](https://mrodara.github.io)
