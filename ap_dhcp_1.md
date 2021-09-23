@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Ejercicio: Instalación y configuración del servidor dhcp en linux
 Después de leer la documentación, instala el servidor dhcp. Recuerda que al inicializar el servicio nos dará un error, esto es debido a que no hemos configurado el servidor.
 
