@@ -1,10 +1,10 @@
-Ejercicio: Instalación y configuración del servidor dhcp en linux
+## Ejercicio: Instalación y configuración del servidor dhcp en linux
 Después de leer la documentación, instala el servidor dhcp. Recuerda que al inicializar el servicio nos dará un error, esto es debido a que no hemos configurado el servidor.
 
 Instalación del servidor isc-dhcp-server
 Para instalar nuestro servidor dhcp ejecutamos:
 
-apt-get install isc-dhcp-server
+```apt-get install isc-dhcp-server```  
 Nota
 Cuando instalamos el servidor por primera se produce un error, ya que no está configurado. Puedes ver los errores producidos por el servidor en el fichero /var/log/syslog
 
