@@ -2,7 +2,15 @@
 layout: default
 ---
 
-## Welcome to hlc page
+## HORAS DE LIBRE CONFIGURACIÓN
+
+### PRESENTACIONES  
+
+### ACTIVIDADES PRÁCTICAS
+
+### TUTORIALES
+
+### ENLACES INTERESANTES
 
 _yay_
 

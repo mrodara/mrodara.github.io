@@ -2,7 +2,15 @@
 layout: default
 ---
 
-## Welcome to sri page
+## SERVICIOS DE RED E INTERNET
+
+### PRESENTACIONES  
+
+### ACTIVIDADES PRÁCTICAS
+
+### TUTORIALES
+
+### ENLACES INTERESANTES
 
 _yay_
 
