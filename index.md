@@ -4,7 +4,9 @@ layout: default
 
 # Bienvenid@s
 
-![Yo](./images/avatar_manu180x188.png) En esta web encontrarás recursos y ejercicios interesantes sobre los distintos módulos profesionales que imparto.  
+![Yo](./images/avatar_manu180x188.png)  
+
+En esta web encontrarás recursos y ejercicios interesantes sobre los distintos módulos profesionales que imparto.  
 Espero que os sean de gran ayuda.
 
 ## Módulos Curso 2021-2022

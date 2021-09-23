@@ -6,6 +6,8 @@ layout: default
 
 ### PRESENTACIONES  
 
+* [SRI-UT01-Servicios de configuración automática de red](https://slides.com/manueljesusrodriguezarabi/deck-87afca/fullscreen)
+
 ### ACTIVIDADES PRÁCTICAS
 
 ### TUTORIALES
