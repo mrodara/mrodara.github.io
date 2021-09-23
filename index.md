@@ -2,6 +2,11 @@
 layout: default
 ---
 
+# Bienvenid@s
+
+En esta web encontrarás recursos y ejercicios interesantes sobre los distintos módulos profesionales que imparto.  
+Espero que os sean de gran ayuda.
+
 ## Módulos Curso 2021-2022
 
 * Implantación de Aplicaciones Web (DAW)
