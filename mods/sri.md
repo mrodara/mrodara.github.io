@@ -10,7 +10,9 @@ layout: default
 
 ### ACTIVIDADES PRÁCTICAS
 
-### TUTORIALES
+### TUTORIALES  
+
+### VIDEOS
 
 ### ENLACES INTERESANTES
 
