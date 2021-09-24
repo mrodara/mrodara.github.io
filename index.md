@@ -16,3 +16,7 @@ Espero que os sean de gran ayuda.
 * [Servicios de Red e Internet (ASIR)](./mods/sri)
 * [Seguridad y Alta Disponibilidad (ASIR)](./mods/sad)
 * [Horas de Libre Configuración (ASIR)](./mods/hlc)
+
+## Comunidades de Aprendizaje
+
+![CdA](./images/coming-soon-150x150.png)
