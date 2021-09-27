@@ -18,6 +18,8 @@ layout: default
 
 ### VIDEOS
 
+* [Instalación manual de la Pila LAMP en Ubuntu 20.04](https://youtu.be/fNNDBpP3gYM)  
+
 ### ENLACES INTERESANTES
 
 [back](https://mrodara.github.io)
