@@ -20,3 +20,7 @@ Espero que os sean de gran ayuda.
 ## Comunidades de Aprendizaje
 
 ![CdA](./images/coming-soon-150x150.png)
+
+
+## Youtube
+[![Youtube](./images/yt_75x75.png)](https://www.youtube.com/channel/UCyzONPf9vQbCHHVrVBHIgrA)  
