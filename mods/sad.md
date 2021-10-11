@@ -22,5 +22,6 @@ En este apartado se incluyen enlaces a videos, tutoriales y libros que pueden re
 * [Cómo Hacer un Escaneo de Vulnerabilidades con OpenVAS en Kali Linux](https://www.youtube.com/watch?v=GcSKrEiC8xQ&t=5s)
 * [Informe de Vulnerabilidades del video](../documentos/informe_openvas_instalacion.pdf)
 * [Metasploitable2 - VirtualMachine to Test Metasploit](https://information.rapid7.com/download-metasploitable-2017.html)
+* [Cómo instalar lastpass manager en Ubuntu (Gestor de Contraseñas)](https://linuxhint.com/install-lastpass-ubuntu/)
 
 [back](https://mrodara.github.io)
