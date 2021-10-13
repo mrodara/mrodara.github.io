@@ -12,6 +12,8 @@ layout: default
 
 ### TUTORIALES  
 
+[SAD-01-01-Cifrado Simétrico con GPG](https://docs.google.com/document/d/15xqNhSWpaRppFaa05J4BrJodhnAUsmWY4YIshQ_cBak/edit?usp=sharing)  
+
 ### VIDEOS
 
 ### ENLACES INTERESANTES
