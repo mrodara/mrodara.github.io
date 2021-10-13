@@ -12,7 +12,7 @@ layout: default
 
 ### TUTORIALES  
 
-[SAD-01-01-Cifrado Simétrico con GPG](https://docs.google.com/document/d/15xqNhSWpaRppFaa05J4BrJodhnAUsmWY4YIshQ_cBak/edit?usp=sharing)  
+* [SAD-01-01-Cifrado Simétrico con GPG](https://docs.google.com/document/d/15xqNhSWpaRppFaa05J4BrJodhnAUsmWY4YIshQ_cBak/edit?usp=sharing)  
 
 ### VIDEOS
 
@@ -25,5 +25,6 @@ En este apartado se incluyen enlaces a videos, tutoriales y libros que pueden re
 * [Informe de Vulnerabilidades del video](../documentos/informe_openvas_instalacion.pdf)
 * [Metasploitable2 - VirtualMachine to Test Metasploit](https://information.rapid7.com/download-metasploitable-2017.html)
 * [Cómo instalar lastpass manager en Ubuntu (Gestor de Contraseñas)](https://linuxhint.com/install-lastpass-ubuntu/)
+* [Crear la Imagen Forense desde una Unidad utilizando FTK Imager](http://www.reydes.com/d/?q=Crear_la_Imagen_Forense_desde_una_Unidad_utilizando_FTK_Imager)  
 
 [back](https://mrodara.github.io)

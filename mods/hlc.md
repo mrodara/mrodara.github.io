@@ -14,6 +14,8 @@ layout: default
 
 ### VIDEOS
 
-### ENLACES INTERESANTES
+### ENLACES INTERESANTES  
+
+* [Crear la Imagen Forense desde una Unidad utilizando FTK Imager](http://www.reydes.com/d/?q=Crear_la_Imagen_Forense_desde_una_Unidad_utilizando_FTK_Imager)  
 
 [back](https://mrodara.github.io)
