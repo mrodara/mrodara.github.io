@@ -23,6 +23,7 @@ layout: default
 
 * [Instalación manual de la Pila LAMP en Ubuntu 20.04](https://youtu.be/fNNDBpP3gYM)  
 * [Creación de hosts virtuales en Apache](https://youtu.be/-Siajf5Yi7I)  
+* [Instalación de Wordpress en Ubuntu 20.04](https://youtu.be/KJ9YwQNBJtE)  
 
 ### ENLACES INTERESANTES
 
