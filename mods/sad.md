@@ -6,7 +6,9 @@ layout: default
 
 ### PRESENTACIONES  
 
-* [SAD-UT1-Adopción de pautas de seguridad informática](https://slides.com/manueljesusrodriguezarabi/hlc-ut01-analisis-forense-de-sistemas-informaticos/fullscreen)
+* [SAD-UT1-Adopción de pautas de seguridad informática](https://slides.com/manueljesusrodriguezarabi/hlc-ut01-analisis-forense-de-sistemas-informaticos/fullscreen)  
+* [SAD-UT4-Instalación y configuración de cortafuegos](https://slides.com/manueljesusrodriguezarabi/sad-ut01-adopcion-de-pautas-de-seguridad-informatica/fullscreen)  
+
 
 ### ACTIVIDADES PRÁCTICAS
 
