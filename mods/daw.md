@@ -24,7 +24,8 @@ layout: default
 
 #### UT02
 
-* [01 - Tutorial Instalar Apache Tomcat en Ubuntu 20.04](https://docs.google.com/document/d/1EHqKX4O6_JIoJpLdLSHeHLASSbRshjAojiG0W9FBQNE/edit?usp=sharing)
+* [01 - Tutorial Instalar Apache Tomcat en Ubuntu 20.04](https://docs.google.com/document/d/1EHqKX4O6_JIoJpLdLSHeHLASSbRshjAojiG0W9FBQNE/edit?usp=sharing)  
+* [02 - Tutorial despliegue de una aplicación web en Apache Tomcat 9](https://docs.google.com/document/d/1hNMEyI_RxgJCkd5aF4d-fZ2HGw8dH7KBdLoXD-Lx2s0/edit?usp=sharing)  
 
 ### VIDEOS  
 
