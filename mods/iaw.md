@@ -33,4 +33,6 @@ layout: default
 
 ### ENLACES INTERESANTES
 
+* [Tutoriales Plataforma Moodle - Básico](https://www.youtube.com/watch?v=lSCxLtsekP4&list=PLOKv7lQbNyFZb3FQ253pnRAln_G-sGjF5)
+
 [back](https://mrodara.github.io)
