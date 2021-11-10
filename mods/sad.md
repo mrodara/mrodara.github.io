@@ -28,5 +28,6 @@ En este apartado se incluyen enlaces a videos, tutoriales y libros que pueden re
 * [Metasploitable2 - VirtualMachine to Test Metasploit](https://information.rapid7.com/download-metasploitable-2017.html)
 * [Cómo instalar lastpass manager en Ubuntu (Gestor de Contraseñas)](https://linuxhint.com/install-lastpass-ubuntu/)
 * [Crear la Imagen Forense desde una Unidad utilizando FTK Imager](http://www.reydes.com/d/?q=Crear_la_Imagen_Forense_desde_una_Unidad_utilizando_FTK_Imager)  
+* [Cómo instalar Pfsense en VMware](https://youtu.be/c_34P6UbAtw?t=162)  
 
 [back](https://mrodara.github.io)
