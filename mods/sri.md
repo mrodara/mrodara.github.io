@@ -27,7 +27,8 @@ layout: default
 * [SRI-03-03 - Tutorial Instalación de MySQL en Ubuntu](https://docs.google.com/document/d/1IHjZUxZ7QPbzweq-cW-vk4FzWbuYyP7MZbVm1dRTaEk/edit?usp=sharing)
 * [SRI-03-04 - Tutorial Crear usuarios en Servidor MySQL](https://docs.google.com/document/d/1e7IxqwJPpDfnVrZKUMGs1abM3_BvCzxz5_OWEBDRjcg/edit?usp=sharing)  
 * [SRI-03-05 - Tutorial Instalar PHP7.4 en Ubuntu 20.04](https://docs.google.com/document/d/11LEQEer5rJ1OwUc69WaeclO0SBO0W20CKcEWLsiywQ0/edit?usp=sharing)
-* [SRI-03-06 - Tutorial Creación VirtualHost Apache en Ubuntu 20.04](https://docs.google.com/document/d/12Fyfh3Upn_zqNk-b68oYwVdn8Q0FWe2MEKBvDjVutxE/edit?usp=sharing)
+* [SRI-03-06 - Tutorial Creación VirtualHost Apache en Ubuntu 20.04](https://docs.google.com/document/d/12Fyfh3Upn_zqNk-b68oYwVdn8Q0FWe2MEKBvDjVutxE/edit?usp=sharing)  
+* [SRI-03-07 - Tutorial Crear Virtual Hosts con IIS de Windows Server 2019](https://docs.google.com/document/d/13ZQ6X2TACHuxaDGo19q_6dACqxMnbxSIvthQZfoQh7Y/edit?usp=sharing)  
 
 ### VIDEOS
 * [Instalación manual de la Pila LAMP en Ubuntu 20.04](https://youtu.be/fNNDBpP3gYM)  
