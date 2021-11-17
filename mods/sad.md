@@ -21,8 +21,11 @@ layout: default
 #### UT04
 
 * [SAD-04-01-Añadir nuevo KVM en NetInVM](https://docs.google.com/document/d/1PvB-9E8UhljT0a5qOBTZg6zuwlp49_4SXy9Usrstb90/edit?usp=sharing)    
+* [SAD-04-02-Instalar y configurar SNORT en Debian](https://www.ochobitshacenunbyte.com/2020/09/29/deteccion-de-intrusos-con-snort/)    
 
 ### VIDEOS
+
+* [Cómo instalar, configurar y crear reglas con SNORT](https://youtu.be/MwqdKevOas0)
 
 ### ENLACES INTERESANTES
 
