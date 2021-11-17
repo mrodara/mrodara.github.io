@@ -25,7 +25,7 @@ layout: default
 
 ### VIDEOS
 
-* [Cómo instalar, configurar y crear reglas con SNORT](https://youtu.be/MwqdKevOas0)
+* [Cómo instalar, configurar y crear reglas con SNORT](https://youtu.be/MwqdKevOas0?t=186)
 
 ### ENLACES INTERESANTES
 
