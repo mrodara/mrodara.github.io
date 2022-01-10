@@ -7,7 +7,8 @@ layout: default
 ### PRESENTACIONES  
 
 * [UT01-Instalación de Servidores de aplicaciones web](https://slides.com/manueljesusrodriguezarabi/deck/fullscreen)
-* [UT02-Instalación de Servidores de gestores de contenidos](https://slides.com/manueljesusrodriguezarabi/iaw-ut01-instalacion-de-servidores-de-aplicaciones-web/fullscreen)
+* [UT02-Instalación de Servidores de gestores de contenidos](https://slides.com/manueljesusrodriguezarabi/iaw-ut01-instalacion-de-servidores-de-aplicaciones-web/fullscreen)  
+* [UT04-Implantación de aplicaciones de ofimática web](https://slides.com/manueljesusrodriguezarabi/iaw-ut02-instalacion-de-servidores-de-gestores-de-contenidos/fullscreen)  
 
 ### ACTIVIDADES PRÁCTICAS
 
@@ -25,6 +26,9 @@ layout: default
 
 * [06 - Tutorial Instalación de Moodle en Ubuntu 20.04](https://docs.google.com/document/d/1dMdd4Zt6W1UOwpWmtGZHlK3FTtbcsfc1PhyIVYghB4I/edit?usp=sharing)  
 
+#### UT04
+
+* [07 - Tutorial Instalación de OwnCloud en Ubuntu 20.04](https://docs.google.com/document/d/1gqhv66kfkq2Wso9FkIqcptznwK2aG08KEoH9lFbAhBE/edit?usp=sharing)  
 ### VIDEOS
 
 * [Instalación manual de la Pila LAMP en Ubuntu 20.04](https://youtu.be/fNNDBpP3gYM)  
