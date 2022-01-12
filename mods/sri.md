@@ -7,7 +7,8 @@ layout: default
 ### PRESENTACIONES  
 
 * [SRI-UT01-Servicios de configuración automática de red](https://slides.com/manueljesusrodriguezarabi/deck-87afca/fullscreen)
-* [SRI-UT02-Servicios de nombres de dominio](https://slides.com/manueljesusrodriguezarabi/deck-2b09b4/fullscreen)
+* [SRI-UT02-Servicios de nombres de dominio](https://slides.com/manueljesusrodriguezarabi/deck-2b09b4/fullscreen)  
+* [SRI-UT04-Servicios de transferencia de archivos](https://slides.com/manueljesusrodriguezarabi/sri-ut02-servicios-de-nombres-de-dominio/fullscreen)  
 
 ### ACTIVIDADES PRÁCTICAS
 
