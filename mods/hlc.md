@@ -7,6 +7,7 @@ layout: default
 ### PRESENTACIONES  
 
 * [HLC-UT01-Análisis Forense de Sistemas Informáticos](https://slides.com/manueljesusrodriguezarabi/hlc/fullscreen)  
+* [HLC-UT03-Esteganografía y estegoanálisis](https://slides.com/manueljesusrodriguezarabi/hlc-ut02-investigacion-en-fuentes-abiertas-osint/fullscreen)  
 
 ### ACTIVIDADES PRÁCTICAS
 
