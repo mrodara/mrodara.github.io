@@ -32,6 +32,7 @@ layout: default
 
 #### UT04
 * [SRI-04-01 - VIDEO: Instalación de un servidor FTP con vsFTPd en Ubuntu 20.04](https://youtu.be/tKy2xYHc3_M)  
+* [SRI-04-02 - Tutorial Instalar y configurar Servidor FTP ProFTPd en Ubuntu 20.04](https://docs.google.com/document/d/1dgxRkMEWnRecCsSN6HuZbZv0XqYV5KV8_6f-wwID3mw/edit?usp=sharing)
 
 ### VIDEOS
 * [Instalación manual de la Pila LAMP en Ubuntu 20.04](https://youtu.be/fNNDBpP3gYM)  
