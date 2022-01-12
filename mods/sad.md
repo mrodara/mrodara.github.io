@@ -8,6 +8,7 @@ layout: default
 
 * [SAD-UT1-Adopción de pautas de seguridad informática](https://slides.com/manueljesusrodriguezarabi/hlc-ut01-analisis-forense-de-sistemas-informaticos/fullscreen)  
 * [SAD-UT4-Instalación y configuración de cortafuegos](https://slides.com/manueljesusrodriguezarabi/sad-ut01-adopcion-de-pautas-de-seguridad-informatica/fullscreen)  
+* [SAD-UT5-Instalación y configuración de un servidor proxy](https://slides.com/manueljesusrodriguezarabi/sad-ut04-instalacion-y-configuracion-de-cortafuegos/fullscreen)  
 
 
 ### ACTIVIDADES PRÁCTICAS
@@ -22,6 +23,10 @@ layout: default
 
 * [SAD-04-01-Añadir nuevo KVM en NetInVM](https://docs.google.com/document/d/1PvB-9E8UhljT0a5qOBTZg6zuwlp49_4SXy9Usrstb90/edit?usp=sharing)    
 * [SAD-04-02-Instalar y configurar SNORT en Debian](https://www.ochobitshacenunbyte.com/2020/09/29/deteccion-de-intrusos-con-snort/)    
+
+#### UT05
+
+* [SAD-05-01-VIDEO-Instalar y configurar proxy Squid en Ubuntu 20.04](https://youtu.be/wTUchaXLc_w)  
 
 ### VIDEOS
 
