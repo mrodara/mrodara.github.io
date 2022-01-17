@@ -39,6 +39,8 @@ layout: default
 
 ### ENLACES INTERESANTES
 
-* [Tutoriales Plataforma Moodle - Básico](https://www.youtube.com/watch?v=lSCxLtsekP4&list=PLOKv7lQbNyFZb3FQ253pnRAln_G-sGjF5)
+* [Tutoriales Plataforma Moodle - Básico](https://www.youtube.com/watch?v=lSCxLtsekP4&list=PLOKv7lQbNyFZb3FQ253pnRAln_G-sGjF5)  
+* [Atajos de teclado de Visual Studio Code](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)    
+* [Panel de recursos Wakelet para Lenguajes de Script Cliente y Servidor](https://wke.lt/w/s/m3_GSo)    
 
 [back](https://mrodara.github.io)
