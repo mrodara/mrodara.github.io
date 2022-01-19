@@ -27,6 +27,7 @@ layout: default
 #### UT05
 
 * [SAD-05-01-VIDEO-Instalar y configurar proxy Squid en Ubuntu 20.04](https://youtu.be/wTUchaXLc_w)  
+* [SAD-05-02-VIDEO-Configuración de Squid Proxy para que solicite usuario y contraseña para salida a Internet.](https://youtu.be/Q3BNBVuqe_k)  
 
 ### VIDEOS
 
