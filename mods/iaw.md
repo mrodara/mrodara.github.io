@@ -33,7 +33,8 @@ layout: default
 
 #### UT05
 
-* [Repositorio de GitHub con los ejemplos de las sesiones](https://github.com/mrodara/ut05.git)
+* [Repositorio de GitHub con los ejemplos de las sesiones](https://github.com/mrodara/ut05.git)  
+* [Serie Php: Variables locales, globales y superglobales](https://youtu.be/RdJqhfweXwY)  
 
 ### VIDEOS
 
