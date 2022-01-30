@@ -37,6 +37,7 @@ layout: default
 * [Serie Php: Variables locales, globales y superglobales](https://youtu.be/RdJqhfweXwY)  
 * [Serie Php: Paso de varialbles por URL uso de $_GET](https://youtu.be/RWz5HSDsmvU)  
 * [Serie PHP: Creación y acceso de arrays indexados y asociativos](https://youtu.be/qW-Yb74nDBQ)  
+* [Serie PHP: Operadores Aritmeticos, de asignacion y de comparacion](https://youtu.be/9M-ohWgOM9A)  
 
 ### VIDEOS
 
