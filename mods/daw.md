@@ -9,6 +9,7 @@ layout: default
 * [DAW-UT01-Implantación, configuración y administración de servidores web](https://slides.com/manueljesusrodriguezarabi/deck-4b60c1/fullscreen)  
 * [DAW-UT02-Configuración y administración de servidores de aplicaciones](https://slides.com/manueljesusrodriguezarabi/daw-ut01-implantacion-configuracion-y-administracion-de-servidores-web/fullscreen)  
 * [DAW-UT03-Instalación y administración de servidores de alta disponibilidad y alto rendimiento](https://slides.com/manueljesusrodriguezarabi/daw-ut02-configuracion-y-administracion-de-servidores-de-aplicaciones/fullscreen)  
+* [DAW-UT04-Servicios de red implicados en el despliegue de una aplicación web](https://slides.com/manueljesusrodriguezarabi/daw-ut03-instalacion-y-administracion-de-servidores-de-alta-disponibilidad-y-alto-rendimiento/fullscreen)  
 
 ### ACTIVIDADES PRÁCTICAS
 
@@ -34,6 +35,12 @@ layout: default
 
 * [01 - Tutorial Instalar y configurar Servidor FTP ProFTPd en Ubuntu 20.04](https://docs.google.com/document/d/1dgxRkMEWnRecCsSN6HuZbZv0XqYV5KV8_6f-wwID3mw/edit?usp=sharing)  
 * [02 - Tutorial Acceder a un  Servidor FTP con JAVA y APACHE COMMONS NET](https://docs.google.com/document/d/1xcGraOdytMkTs1spxzg9NYFAEOATsmkb0a6WL94h_Ug/edit?usp=sharing)  
+
+
+#### UT04  
+
+* [SRI-02-01-Cómo configurar BIND como servidor DNS de red privada en Ubuntu 20.04](https://docs.google.com/document/d/1WwTKaLDmJOoGKglI_ieSJ9igHYemDFHT5qA6omH2f90/edit?usp=sharing)  
+* [SRI-02-02-Configurar Servidor de dominio y DNS en Windows Server 2019](https://docs.google.com/document/d/13O8FzUhSBpmBNP6Sg531h7MNnj9QXR-meDXCA3COKZQ/edit?usp=sharing)   
 
 ### VIDEOS  
 
