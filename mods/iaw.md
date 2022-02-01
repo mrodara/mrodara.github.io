@@ -34,10 +34,10 @@ layout: default
 #### UT05
 
 * [Repositorio de GitHub con los ejemplos de las sesiones](https://github.com/mrodara/ut05.git)  
-* [Serie Php: Variables locales, globales y superglobales](https://youtu.be/RdJqhfweXwY)  
-* [Serie Php: Paso de varialbles por URL uso de $_GET](https://youtu.be/RWz5HSDsmvU)  
-* [Serie PHP: Creación y acceso de arrays indexados y asociativos](https://youtu.be/qW-Yb74nDBQ)  
-* [Serie PHP: Operadores Aritmeticos, de asignacion y de comparacion](https://youtu.be/9M-ohWgOM9A)  
+* [Serie Php: 01 Variables locales, globales y superglobales](https://youtu.be/RdJqhfweXwY)  
+* [Serie Php: 02 Paso de varialbles por URL uso de $_GET](https://youtu.be/RWz5HSDsmvU)  
+* [Serie PHP: 03 Creación y acceso de arrays indexados y asociativos](https://youtu.be/qW-Yb74nDBQ)  
+* [Serie PHP: 04 Operadores Aritmeticos, de asignacion y de comparacion](https://youtu.be/9M-ohWgOM9A)  
 
 ### VIDEOS
 
