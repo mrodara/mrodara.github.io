@@ -9,6 +9,7 @@ layout: default
 * [SRI-UT01-Servicios de configuración automática de red](https://slides.com/manueljesusrodriguezarabi/deck-87afca/fullscreen)
 * [SRI-UT02-Servicios de nombres de dominio](https://slides.com/manueljesusrodriguezarabi/deck-2b09b4/fullscreen)  
 * [SRI-UT04-Servicios de transferencia de archivos](https://slides.com/manueljesusrodriguezarabi/sri-ut02-servicios-de-nombres-de-dominio/fullscreen)  
+* [SRI-UT05-Servicios de correo electrónico](https://slides.com/manueljesusrodriguezarabi/sri-ut04-servicios-de-transferencia-de-archivos/fullscreen)  
 
 ### ACTIVIDADES PRÁCTICAS
 
@@ -35,6 +36,9 @@ layout: default
 * [SRI-04-01 - VIDEO: Instalación de un servidor FTP con vsFTPd en Ubuntu 20.04](https://youtu.be/tKy2xYHc3_M)  
 * [SRI-04-02 - Tutorial Instalar y configurar Servidor FTP ProFTPd en Ubuntu 20.04](https://docs.google.com/document/d/1dgxRkMEWnRecCsSN6HuZbZv0XqYV5KV8_6f-wwID3mw/edit?usp=sharing)  
 * [SRI-04-03 - Directivas de configuración para vsFTPd](../documentos/sri04_directivas_vsftpd.pdf)  
+
+#### UT05
+* [SRI-05-01 - VIDEO: Configurar cliente de correo electrónico con una cuenta de Gmail](https://youtu.be/hpf08RuEfxw)  
 
 ### VIDEOS
 * [Instalación manual de la Pila LAMP en Ubuntu 20.04](https://youtu.be/fNNDBpP3gYM)  
