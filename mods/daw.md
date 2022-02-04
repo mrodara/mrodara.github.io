@@ -41,6 +41,7 @@ layout: default
 
 * [SRI-02-01-Cómo configurar BIND como servidor DNS de red privada en Ubuntu 20.04](https://docs.google.com/document/d/1WwTKaLDmJOoGKglI_ieSJ9igHYemDFHT5qA6omH2f90/edit?usp=sharing)  
 * [SRI-02-02-Configurar Servidor de dominio y DNS en Windows Server 2019](https://docs.google.com/document/d/13O8FzUhSBpmBNP6Sg531h7MNnj9QXR-meDXCA3COKZQ/edit?usp=sharing)   
+* [VIDEO: Tutorial Instalación y configuración de servicio DNS Bind en Ubuntu Desktop 20.04](https://youtu.be/nQu4U0r-w-M)   
 
 ### VIDEOS  
 
