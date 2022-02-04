@@ -38,6 +38,9 @@ layout: default
 * [Serie Php: 02 Paso de varialbles por URL uso de $_GET](https://youtu.be/RWz5HSDsmvU)  
 * [Serie PHP: 03 Creación y acceso de arrays indexados y asociativos](https://youtu.be/qW-Yb74nDBQ)  
 * [Serie PHP: 04 Operadores Aritmeticos, de asignacion y de comparacion](https://youtu.be/9M-ohWgOM9A)  
+* [Serie PHP: 05 Sentencia Switch](https://youtu.be/qRYHqnSHXeI)  
+* [Serie PHP: 06 Estructuras repetitivas (bucle for)](https://youtu.be/H3Dxj5WWVoY)  
+* [Serie PHP: 07 Estructuras repetitivas (ciclo foreach)](https://youtu.be/m4nS4WTvMvc)  
 
 ### VIDEOS
 
