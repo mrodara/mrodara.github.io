@@ -39,6 +39,7 @@ layout: default
 
 #### UT05
 * [SRI-05-01 - VIDEO: Configurar cliente de correo electrónico con una cuenta de Gmail](https://youtu.be/hpf08RuEfxw)  
+* [SRI-05-02 - VIDEO: Cómo instalar y configurar MDA dovecot para usar POP3 + SSL en Ubuntu 20.04 Desktop](https://youtu.be/_LCaXPmsYeU)  
 
 ### VIDEOS
 * [Instalación manual de la Pila LAMP en Ubuntu 20.04](https://youtu.be/fNNDBpP3gYM)  
