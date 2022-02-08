@@ -41,6 +41,9 @@ layout: default
 * [Serie PHP: 05 Sentencia Switch](https://youtu.be/qRYHqnSHXeI)  
 * [Serie PHP: 06 Estructuras repetitivas (bucle for)](https://youtu.be/H3Dxj5WWVoY)  
 * [Serie PHP: 07 Estructuras repetitivas (ciclo foreach)](https://youtu.be/m4nS4WTvMvc)  
+* [Serie PHP: 08 Instrucciones repetitivas (while y do-while)](https://youtu.be/gXN4xLPMGcY)  
+* [Serie PHP: 09 Funciones definidas por el usuario en PHP](https://youtu.be/qU50eXnghCQ)  
+* [Serie PHP: 10 Embeber documentos php con include y require](https://youtu.be/lTem3L3TLsI)  
 
 ### VIDEOS
 
