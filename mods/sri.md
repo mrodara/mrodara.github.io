@@ -48,4 +48,6 @@ layout: default
 
 ### ENLACES INTERESANTES
 
+* [Manual completo de vsFTPd](../documentos/tutorial_completo_vsftpd.pdf)  
+
 [back](https://mrodara.github.io)
