@@ -44,6 +44,7 @@ layout: default
 * [Serie PHP: 08 Instrucciones repetitivas (while y do-while)](https://youtu.be/gXN4xLPMGcY)  
 * [Serie PHP: 09 Funciones definidas por el usuario en PHP](https://youtu.be/qU50eXnghCQ)  
 * [Serie PHP: 10 Embeber documentos php con include y require](https://youtu.be/lTem3L3TLsI)  
+* [Serie PHP: 11 Uso de sesiones en PHP](https://youtu.be/OrnUsvi24mc)  
 
 ### VIDEOS
 
