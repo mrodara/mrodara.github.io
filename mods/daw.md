@@ -43,6 +43,7 @@ layout: default
 * [SRI-02-02-Configurar Servidor de dominio y DNS en Windows Server 2019](https://docs.google.com/document/d/13O8FzUhSBpmBNP6Sg531h7MNnj9QXR-meDXCA3COKZQ/edit?usp=sharing)   
 * [VIDEO: Tutorial Instalación y configuración de servicio DNS Bind en Ubuntu Desktop 20.04](https://youtu.be/nQu4U0r-w-M)   
 * [Instalación, configuración y pruebas de LDAP con Ubuntu Desktop 20.04](https://docs.google.com/document/d/1tNZ06Mdyatemz9EQFGR9R8CZ-P52Kmc-l7H1iP4Jwes/edit?usp=sharing)   
+* [Repaso creación Unidades Organizativas, Grupos y usuarios en LDAP](https://slides.com/manueljesusrodriguezarabi/bold/fullscreen)   
 
 ### VIDEOS  
 
