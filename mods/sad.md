@@ -36,10 +36,11 @@ layout: default
 #### UT06
 
 * [SAD-06-01-PfSense en Alta Disponibilidad (HA)](https://youtu.be/wTUchaXLc_w)  
+* [SAD-06-02-Uso de Docker para Alta Disponibilidad](https://drive.google.com/drive/folders/1deSqf1WMA1FXbGSUzoJGHaoY4uyvXVUT?usp=sharing)  
 
 ### VIDEOS
 
-* [Cómo instalar, configurar y crear reglas con SNORT](https://youtu.be/MwqdKevOas0?t=186)
+* [Cómo instalar, configurar y crear reglas con SNORT](https://youtu.be/MwqdKevOas0?t=186)  
 
 ### ENLACES INTERESANTES
 
