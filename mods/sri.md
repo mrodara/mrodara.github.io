@@ -10,7 +10,7 @@ layout: default
 * [SRI-UT02-Servicios de nombres de dominio](https://slides.com/manueljesusrodriguezarabi/deck-2b09b4/fullscreen)  
 * [SRI-UT04-Servicios de transferencia de archivos](https://slides.com/manueljesusrodriguezarabi/sri-ut02-servicios-de-nombres-de-dominio/fullscreen)  
 * [SRI-UT05-Servicios de correo electrónico](https://slides.com/manueljesusrodriguezarabi/sri-ut04-servicios-de-transferencia-de-archivos/fullscreen)  
-* [SRI-UT06-Servicios de mensajería instantánea, noticias y listas de distribución](https://slides.com/manueljesusrodriguezarabi/sri-ut04-servicios-de-transferencia-de-archivos/fullscreen)  
+* [SRI-UT06-Servicios de mensajería instantánea, noticias y listas de distribución](https://slides.com/manueljesusrodriguezarabi/desk/fullscreen)  
 
 ### ACTIVIDADES PRÁCTICAS
 
