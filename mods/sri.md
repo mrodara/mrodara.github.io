@@ -10,6 +10,7 @@ layout: default
 * [SRI-UT02-Servicios de nombres de dominio](https://slides.com/manueljesusrodriguezarabi/deck-2b09b4/fullscreen)  
 * [SRI-UT04-Servicios de transferencia de archivos](https://slides.com/manueljesusrodriguezarabi/sri-ut02-servicios-de-nombres-de-dominio/fullscreen)  
 * [SRI-UT05-Servicios de correo electrónico](https://slides.com/manueljesusrodriguezarabi/sri-ut04-servicios-de-transferencia-de-archivos/fullscreen)  
+* [SRI-UT06-Servicios de mensajería instantánea, noticias y listas de distribución](https://slides.com/manueljesusrodriguezarabi/sri-ut04-servicios-de-transferencia-de-archivos/fullscreen)  
 
 ### ACTIVIDADES PRÁCTICAS
 
@@ -41,6 +42,10 @@ layout: default
 * [SRI-05-01 - VIDEO: Configurar cliente de correo electrónico con una cuenta de Gmail](https://youtu.be/hpf08RuEfxw)  
 * [SRI-05-02- Tutorial Instalar y configurar Postfix-dovecot IMAP en Ubuntu 20.04](https://docs.google.com/document/d/13WeFYNI6ZPIKSkYuXr8tH6WVYupWOUDexwuUk7558vE/edit?usp=sharing)  
 * [SRI-05-03 - VIDEO: Cómo instalar y configurar MDA dovecot para usar POP3 + SSL en Ubuntu 20.04 Desktop](https://youtu.be/_LCaXPmsYeU)  
+
+#### UT06
+
+* [SRI-06-01 - Tutorial: Instalación de Openfire en Ubuntu 20.04](https://docs.google.com/document/d/1DEmwUcCXTOsRe9WJkW7-h29EKf5SFOBG462ZkhtC4T4/edit?usp=sharing)  
 
 ### VIDEOS
 * [Instalación manual de la Pila LAMP en Ubuntu 20.04](https://youtu.be/fNNDBpP3gYM)  
