@@ -7,6 +7,8 @@ layout: default
 ### PRESENTACIONES  
 
 * [SAD-UT1-Adopción de pautas de seguridad informática](https://slides.com/manueljesusrodriguezarabi/hlc-ut01-analisis-forense-de-sistemas-informaticos/fullscreen)  
+* [SAD-UT2-Implantación y mecanismos de seguridad activa (Powerpoint)](../documentos/UNIDAD02v5%20-SAD.pptx)    
+* [SAD-UT2-Implantación y mecanismos de seguridad activa (PDF)](../documentos/UNIDAD02-SAD_FINAL.pdf)    
 * [SAD-UT4-Instalación y configuración de cortafuegos](https://slides.com/manueljesusrodriguezarabi/sad-ut01-adopcion-de-pautas-de-seguridad-informatica/fullscreen)  
 * [SAD-UT5-Instalación y configuración de un servidor proxy](https://slides.com/manueljesusrodriguezarabi/sad-ut04-instalacion-y-configuracion-de-cortafuegos/fullscreen)  
 
@@ -18,6 +20,14 @@ layout: default
 #### UT01
 
 * [SAD-01-01-Cifrado Simétrico con GPG](https://docs.google.com/document/d/15xqNhSWpaRppFaa05J4BrJodhnAUsmWY4YIshQ_cBak/edit?usp=sharing)    
+
+#### UT02
+
+* [SAD-02-01-WPSCAN](https://docs.google.com/document/d/1Hg60Gy8SqlEFAB4PQPWATaM_uJTFezpiqBFlFZ99n9Y/edit?usp=sharing)   
+* [SAD-02-02-SQLINJECTION](https://docs.google.com/document/d/1CBqwyn7z232btoUE1JH8dkh2JmPhntZI/edit?usp=sharing&ouid=101130004008836615390&rtpof=true&sd=true)   
+* [SAD-02-03-Firmas GPG](https://docs.google.com/document/d/1blpq-E2DwF9KYVRcgnODl1aKx2dtzsWH/edit?usp=sharing&ouid=101130004008836615390&rtpof=true&sd=true)   
+* [SAD-02-04-Snort Ubuntu](https://docs.google.com/document/d/15p01wr9XREL8n8NkbxTqm0Hy0bpLKuvu/edit?usp=sharing&ouid=101130004008836615390&rtpof=true&sd=true)   
+
 
 #### UT03
 
