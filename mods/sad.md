@@ -27,6 +27,7 @@ layout: default
 * [SAD-02-02-SQLINJECTION](https://docs.google.com/document/d/1CBqwyn7z232btoUE1JH8dkh2JmPhntZI/edit?usp=sharing&ouid=101130004008836615390&rtpof=true&sd=true)   
 * [SAD-02-03-Firmas GPG](https://docs.google.com/document/d/1blpq-E2DwF9KYVRcgnODl1aKx2dtzsWH/edit?usp=sharing&ouid=101130004008836615390&rtpof=true&sd=true)   
 * [SAD-02-04-Snort Ubuntu](https://docs.google.com/document/d/15p01wr9XREL8n8NkbxTqm0Hy0bpLKuvu/edit?usp=sharing&ouid=101130004008836615390&rtpof=true&sd=true)   
+* [SAD-02-Ejercicio Firmas Tarea online](../documentos/sad_ut02.rar)   
 
 
 #### UT03
