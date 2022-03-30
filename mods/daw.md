@@ -49,6 +49,7 @@ layout: default
 #### UT05
 
 * [DAW-05-01-Instalación de phpDocumentor en Ubuntu 20.04](https://docs.google.com/document/d/1WOrDd5CtIFtL4fTOLHPbfI6SyP6O285MYQ21P4mawt0/edit?usp=sharing)   
+* [DAW-05-02-EXTERNO: Tutorial de Comandos de Git](https://gist.github.com/dasdo/9ff71c5c0efa037441b6)   
 
 
 ### VIDEOS  
