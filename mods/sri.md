@@ -46,6 +46,9 @@ layout: default
 #### UT06
 
 * [SRI-06-01 - Tutorial: Instalación de Openfire en Ubuntu 20.04](https://docs.google.com/document/d/1DEmwUcCXTOsRe9WJkW7-h29EKf5SFOBG462ZkhtC4T4/edit?usp=sharing)  
+* [SRI-06-02 - EXTERNO Tutorial: Mailman 3 Setup Using Ubuntu Bionic](https://docs.google.com/document/d/1xIcSsoNFp2nHi7r4eQys00s9a0k2sHhu1V5PlantPTs/edit?usp=sharing)  
+* [SRI-06-03 - EXTERNO Tutorial: How to Install Mailman 3 on a Debian 10 Server](https://wiki.list.org/DOC/Howto_Install_Mailman3_On_Debian10)  
+* [SRI-06-04 - EXTERNO Tutorial: Configuración de Mailman Ubuntu Server 17](https://alexcastel.wordpress.com/2017/11/20/configuracion-de-mailman-ubuntu/)  
 
 ### VIDEOS
 * [Instalación manual de la Pila LAMP en Ubuntu 20.04](https://youtu.be/fNNDBpP3gYM)  
