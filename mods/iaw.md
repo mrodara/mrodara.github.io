@@ -47,6 +47,11 @@ layout: default
 * [Serie PHP: 10 Embeber documentos php con include y require](https://youtu.be/lTem3L3TLsI)  
 * [Serie PHP: 11 Uso de sesiones en PHP](https://youtu.be/OrnUsvi24mc)  
 
+#### UT06
+
+* [01 - Tutorial Instalación de phpDocumentor en Ubuntu 20.04](https://docs.google.com/document/d/1WOrDd5CtIFtL4fTOLHPbfI6SyP6O285MYQ21P4mawt0/edit?usp=sharing)  
+* [02 - Repositorio de ejemplos de las sesiones](https://github.com/mrodara/ut06.git)  
+
 ### VIDEOS
 
 * [Instalación manual de la Pila LAMP en Ubuntu 20.04](https://youtu.be/fNNDBpP3gYM)  
