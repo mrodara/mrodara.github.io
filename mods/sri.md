@@ -11,6 +11,7 @@ layout: default
 * [SRI-UT04-Servicios de transferencia de archivos](https://slides.com/manueljesusrodriguezarabi/sri-ut02-servicios-de-nombres-de-dominio/fullscreen)  
 * [SRI-UT05-Servicios de correo electrónico](https://slides.com/manueljesusrodriguezarabi/sri-ut04-servicios-de-transferencia-de-archivos/fullscreen)  
 * [SRI-UT06-Servicios de mensajería instantánea, noticias y listas de distribución](https://slides.com/manueljesusrodriguezarabi/desk/fullscreen)  
+* [SRI-UT07-Servicios de audio y video](https://view.genial.ly/624c54bdb0fd340010135308/learning-experience-didactic-unit-sri-07-servicios-de-audio-y-video)  
 
 ### ACTIVIDADES PRÁCTICAS
 
