@@ -51,6 +51,10 @@ layout: default
 * [SRI-06-03 - EXTERNO Tutorial: How to Install Mailman 3 on a Debian 10 Server](https://wiki.list.org/DOC/Howto_Install_Mailman3_On_Debian10)  
 * [SRI-06-04 - EXTERNO Tutorial: Configuración de Mailman Ubuntu Server 17](https://alexcastel.wordpress.com/2017/11/20/configuracion-de-mailman-ubuntu/)  
 
+#### UT07
+
+* [sri-07-01 - Tutorial: Instalación y configuración server Icecast en Ubuntu 20.04](https://docs.google.com/document/d/1eECW6LPEukz3Vfc7UpbMH44ckbqQPxvUaCAZOx8yCFI/edit?usp=sharing)
+
 ### VIDEOS
 * [Instalación manual de la Pila LAMP en Ubuntu 20.04](https://youtu.be/fNNDBpP3gYM)  
 * [Creación de hosts virtuales en Apache](https://youtu.be/-Siajf5Yi7I)  
