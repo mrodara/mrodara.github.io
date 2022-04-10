@@ -11,6 +11,7 @@ layout: default
 * [UT04-Implantación de aplicaciones de ofimática web](https://slides.com/manueljesusrodriguezarabi/iaw-ut02-instalacion-de-servidores-de-gestores-de-contenidos/fullscreen)  
 * [UT05-Programación de documentos web utilizando lenguajes de script de servidor](https://slides.com/manueljesusrodriguezarabi/iaw-ut04-implantacion-de-aplicaciones-de-ofimatica-web/fullscreen)  
 * [UT06-Acceso a bases de datos desde lenguajes de script de servidor](https://slides.com/manueljesusrodriguezarabi/code/fullscreen)  
+* [UT07-Adaptación de Gestores de Contenidos](https://view.genial.ly/625312d216c2b50018597ec8/presentation-iaw-07-adaptaciongestorescontenidos)  
 
 ### ACTIVIDADES PRÁCTICAS
 
