@@ -24,7 +24,7 @@ layout: default
 #### UT02
 * [SRI-02-01-Cómo configurar BIND como servidor DNS de red privada en Ubuntu 20.04](https://docs.google.com/document/d/1WwTKaLDmJOoGKglI_ieSJ9igHYemDFHT5qA6omH2f90/edit?usp=sharing)  
 * [SRI-02-02-Configurar Servidor de dominio y DNS en Windows Server 2019](https://docs.google.com/document/d/13O8FzUhSBpmBNP6Sg531h7MNnj9QXR-meDXCA3COKZQ/edit?usp=sharing)  
-* [SRI-02-02-Configuración de un Servidor DNS Esclavo con Bind9](https://docs.google.com/document/d/1wZqSDGTY9oomWF0h9b2DlxjnVbvKeAVVAJ6ZKaofUSw/edit?usp=sharing)  
+* [SRI-02-03-Configuración de un Servidor DNS Esclavo con Bind9](https://docs.google.com/document/d/1wZqSDGTY9oomWF0h9b2DlxjnVbvKeAVVAJ6ZKaofUSw/edit?usp=sharing)  
 
 #### UT03
 * [SRI-03-01 - Habilitar IIS en Windows Server 2019](https://docs.google.com/document/d/1t0BYJdOLcUn3x930PiwsFH9Ds_0NIwoIO5EKfRSPcLs/edit?usp=sharing)  
