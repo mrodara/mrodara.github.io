@@ -51,7 +51,8 @@ layout: default
 * [DAW-05-01-Instalación de phpDocumentor en Ubuntu 20.04](https://docs.google.com/document/d/1WOrDd5CtIFtL4fTOLHPbfI6SyP6O285MYQ21P4mawt0/edit?usp=sharing)   
 * [DAW-05-02-Introducción al control de versiones Git y GitHub](https://youtu.be/voYEGJKG88E)   
 * [DAW-05-03-EXTERNO: Tutorial de Comandos de Git](https://gist.github.com/dasdo/9ff71c5c0efa037441b6)   
-* [DAW-05-04: Tutorial de resolución báisca de conflictos con Git](https://docs.google.com/document/d/1Ddy6iKmOGRK2cBUg-ofifMqUqfKSBZeKHVqrLdbVlGk/edit?usp=sharing)   
+* [DAW-05-04-EXTERNO: 10 Comandos de Git que todo desarrollador debería saber](https://www.freecodecamp.org/espanol/news/10-comandos-de-git-que-todo-desarrollador-deberia-saber/)   
+* [DAW-05-05: Tutorial de resolución báisca de conflictos con Git](https://docs.google.com/document/d/1Ddy6iKmOGRK2cBUg-ofifMqUqfKSBZeKHVqrLdbVlGk/edit?usp=sharing)   
 
 
 ### VIDEOS  
