@@ -55,6 +55,7 @@ layout: default
 * [DAW-05-05: Tutorial de resolución báisca de conflictos con Git](https://docs.google.com/document/d/1Ddy6iKmOGRK2cBUg-ofifMqUqfKSBZeKHVqrLdbVlGk/edit?usp=sharing)   
 
 
+
 ### VIDEOS  
 
 * [Instalación manual de la Pila LAMP en Ubuntu 20.04](https://youtu.be/fNNDBpP3gYM)
