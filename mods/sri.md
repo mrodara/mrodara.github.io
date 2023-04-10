@@ -51,6 +51,7 @@ layout: default
 * [SRI-06-02 - EXTERNO Tutorial: Mailman 3 Setup Using Ubuntu Bionic](https://docs.google.com/document/d/1xIcSsoNFp2nHi7r4eQys00s9a0k2sHhu1V5PlantPTs/edit?usp=sharing)  
 * [SRI-06-03 - EXTERNO Tutorial: How to Install Mailman 3 on a Debian 10 Server](https://wiki.list.org/DOC/Howto_Install_Mailman3_On_Debian10)  
 * [SRI-06-04 - EXTERNO Tutorial: Configuración de Mailman Ubuntu Server 17](https://alexcastel.wordpress.com/2017/11/20/configuracion-de-mailman-ubuntu/)  
+* [SRI-06-05 - Tutorial: Instalación de mailman bajo servicio de Postfix](https://docs.google.com/document/d/1SeuXkTUzjqn2SnRklU9QZFvhTWswnlv7_9A0N-i6ypI/edit?usp=sharing)  
 
 #### UT07
 
