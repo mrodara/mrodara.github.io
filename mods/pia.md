@@ -5,11 +5,13 @@ layout: default
 
 ### PRESENTACIONES
 
-* [PIA-UT01-Introducción a la programación de Inteligencia Artificial.](https://www.canva.com/design/DAFu69ZOFBQ/Qrv41M0VfpyUJuIqaAQl_A/edit?utm_content=DAFu69ZOFBQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  
+
+  * [PIA-UT01-Introducción a la programación de Inteligencia Artificial](https://slides.com/manueljesusrodriguezarabi/code-ec8356/fullscreen)
+
 
 ### ACTIVIDADES PRÁCTICAS
 
+  * [PIA-UT01-Ejercicios Estructura Secuencial con Python](https://educacionadistancia.juntadeandalucia.es/centros/almeria/mod/url/view.php?id=269110)
 ### TUTORIALES
 
 #### UT01
