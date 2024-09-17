@@ -15,7 +15,7 @@ layout: default
 
 ### ACTIVIDADES PREVIAS
 * [SRI-DOCKER-00: Primeros pasos sobre el uso de contenedores Docker](https://docs.google.com/document/d/1Ar56A3TAsRUStlgyJqQGLFvDRfHiRuXlW8A49zJ7ZQk/edit?usp=sharing)
-* [SRI-DOCKER-00b: Introducción a Dockerfile con ejemplos]((https://docs.google.com/document/d/1xh-uRoFHHSU6pdjD-MoLA308rrI1IQrqdca1wjCs5r8/edit?usp=sharing))
+* [SRI-DOCKER-00b: Introducción a Dockerfile con ejemplos](https://docs.google.com/document/d/1xh-uRoFHHSU6pdjD-MoLA308rrI1IQrqdca1wjCs5r8/edit?usp=sharing)
 
 ### TUTORIALES  
 
