@@ -14,6 +14,9 @@ layout: default
 * [SRI-UT07-Servicios de audio y video](https://view.genial.ly/624c54bdb0fd340010135308/learning-experience-didactic-unit-sri-07-servicios-de-audio-y-video)  
 
 ### ACTIVIDADES PREVIAS
+
+* [Enlace Temporal: Unidad Guiada UT01 Servicios de configuración automática de red](https://drive.google.com/file/d/1FQKUd9JK7yA7SeIIv6OLzZkueXkox7Y-/view?usp=sharing)
+
 * [SRI-DOCKER-00: Primeros pasos sobre el uso de contenedores Docker](https://docs.google.com/document/d/1Ar56A3TAsRUStlgyJqQGLFvDRfHiRuXlW8A49zJ7ZQk/edit?usp=sharing)
 * [SRI-DOCKER-00b: Introducción a Dockerfile con ejemplos](https://docs.google.com/document/d/1xh-uRoFHHSU6pdjD-MoLA308rrI1IQrqdca1wjCs5r8/edit?usp=sharing)
 
