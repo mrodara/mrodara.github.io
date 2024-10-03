@@ -23,10 +23,11 @@ layout: default
 
 ### TUTORIALES  
 
-#### UT01π
+#### UT01
 * [SRI-01-01-Instalación del servicio DHCP en Ubuntu Server 20.04.3](https://docs.google.com/document/d/13mH4C-YDlYeXPbv_PJqyFJYQWNkZjs5oO1Af6zSJ7ws/edit?usp=sharing)
 * [SRI-01-02-Instalar Webmin en Ubuntu 20.04](https://docs.google.com/document/d/19hWwATwHeHlnya7nX7Ni0wL8iI9bzTR0xbCmACs3SSU/edit?usp=sharing)  
-* [SRI-01-01-Docker-Instalar Servidor DHCP en Docker](https://docs.google.com/document/d/1St45G3qCUPK4B28GVgvK-hp7BGOHClskKMCJMtmozfw/edit?usp=sharing)  
+* [SRI-UT01-Docker-AP-Implementación de un servidor DHCP usando Docker para conectar contenedores clientes](https://docs.google.com/document/d/1KqlScm5r9IAXq_ir9A59rqEuuyFL0oFVTwr4QAuHNKg/edit?usp=sharing)  
+* [SRI-UT01-Docker-AP-Configuración de un Servidor DHCP con Webmin en un Contenedor Docker](https://docs.google.com/document/d/1yjf-iTbEyUELlknAZ2nwP1LEzXNNtHu7GT6yz1JH59k/edit?usp=sharing)  
 
 #### UT02
 * [SRI-02-01-Cómo configurar BIND como servidor DNS de red privada en Ubuntu 20.04](https://docs.google.com/document/d/1WwTKaLDmJOoGKglI_ieSJ9igHYemDFHT5qA6omH2f90/edit?usp=sharing)  
