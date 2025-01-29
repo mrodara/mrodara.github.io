@@ -59,7 +59,6 @@ layout: default
 * [SRI-05-01 - VIDEO: Configurar cliente de correo electrónico con una cuenta de Gmail](https://youtu.be/hpf08RuEfxw)  
 * [SRI-05-02- Tutorial Instalar y configurar Postfix-dovecot IMAP en Ubuntu 20.04](https://docs.google.com/document/d/13WeFYNI6ZPIKSkYuXr8tH6WVYupWOUDexwuUk7558vE/edit?usp=sharing)  
 * [SRI-05-03 - VIDEO: Cómo instalar y configurar MDA dovecot para usar POP3 + SSL en Ubuntu 20.04 Desktop](https://youtu.be/_LCaXPmsYeU)  
----
 * [SRI-05-04-Docker: Tutorial: Servidor de correo Docker con Postfix y Dovecot (Maildir + SSL)](https://colab.research.google.com/drive/1AFdEPJ_RGE6m-eeq75D8NnnqOg_U9CcX?usp=sharing)
 
 
