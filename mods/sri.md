@@ -18,8 +18,10 @@ layout: default
 * [Enlace Temporal: Unidad Guiada UT01 Servicios de configuración automática de red](https://drive.google.com/file/d/1FQKUd9JK7yA7SeIIv6OLzZkueXkox7Y-/view?usp=sharing)
 * [Enlace Temporal: Tarea Online Guiada UT01 Servicios de configuración automática de red (ZIP)](../documentos/SRI_TareaOnline_UT01_2025_26.zip)
 
+
+* [SRI-DOCKER-Ventajas e Instalación: Sistemas Unix y Windows WSL (Google Colab)](https://colab.research.google.com/drive/17HdLEz5saQaJdnzsYOVEgsdgZpiuggtx?usp=sharing)
 * [SRI-DOCKER-Anexo I: Contenerización con Docker (PDF)](https://drive.google.com/file/d/1JgureFHyeZGuw3sSqtp1R870MARzKQdj/view?usp=sharing)
-* [SRI-DOCKER-00: Primeros pasos sobre el uso de contenedores Docker](https://docs.google.com/document/d/1Ar56A3TAsRUStlgyJqQGLFvDRfHiRuXlW8A49zJ7ZQk/edit?usp=sharing)
+* [SRI-DOCKER-00: Primeros pasos sobre el uso de contenedores Docker (Google Colab)](https://docs.google.com/document/d/1Ar56A3TAsRUStlgyJqQGLFvDRfHiRuXlW8A49zJ7ZQk/edit?usp=sharing)
 * [SRI-DOCKER-00b: Introducción a Dockerfile con ejemplos](https://docs.google.com/document/d/1xh-uRoFHHSU6pdjD-MoLA308rrI1IQrqdca1wjCs5r8/edit?usp=sharing)
 
 ### TUTORIALES  
