@@ -77,7 +77,8 @@ layout: default
 
 #### UT07 Servicios de audio y video
 
-* [sri-07-01 - Tutorial: Instalación y configuración server Icecast en Ubuntu 20.04](https://docs.google.com/document/d/1eECW6LPEukz3Vfc7UpbMH44ckbqQPxvUaCAZOx8yCFI/edit?usp=sharing)
+* [sri-07-01 - Unidad Guiada: Servicios de Streaming de Audio y Vídeo con Docker](https://colab.research.google.com/drive/1JHk4LTdURB-2rzuClivgiULZeHlfIbBi?usp=sharing)
+* [sri-07-02 - Unidad Guiada: Despliegue de Servidor VOD con Plex y Docker](https://colab.research.google.com/drive/1tasWzgE1_EdXOUiX54Ddzvkx-_0L7v90?usp=sharing)
 
 ### VIDEOS
 * [Instalación manual de la Pila LAMP en Ubuntu 20.04](https://youtu.be/fNNDBpP3gYM)  
