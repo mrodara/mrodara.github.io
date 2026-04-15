@@ -23,7 +23,7 @@ layout: default
 * [SRI-DOCKER-Anexo I: Contenerización con Docker (PDF)](https://drive.google.com/file/d/1JgureFHyeZGuw3sSqtp1R870MARzKQdj/view?usp=sharing)
 * [SRI-DOCKER-Anexo I: Contenerización con Docker (GUIADA)](../documentos/AnexoI_Contenerizacion_con_docker.zip)
 * [SRI-DOCKER-00: Primeros pasos sobre el uso de contenedores Docker (Google Colab)](https://drive.google.com/file/d/1kUd_p7882-nmc6ycdbbNtpnkICxBlCyd/view?usp=sharing)
-* [SRI-DOCKER-00b: Introducción a Dockerfile con ejemplos](https://docs.google.com/document/d/1xh-uRoFHHSU6pdjD-MoLA308rrI1IQrqdca1wjCs5r8/edit?usp=sharing)
+
 
 ### TUTORIALES  
 
