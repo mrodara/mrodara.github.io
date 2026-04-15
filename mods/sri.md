@@ -78,6 +78,7 @@ layout: default
 
 #### UT07 Servicios de audio y video
 
+* [Infografía: El ecosistema audiovisual digital](../documentos/Ecosistema_audiovisual_digital.png) (Imagen PNG)
 * [sri-07-01 - Unidad Guiada: Servicios de Streaming de Audio y Vídeo con Docker](https://colab.research.google.com/drive/1JHk4LTdURB-2rzuClivgiULZeHlfIbBi?usp=sharing)
 * [sri-07-02 - Unidad Guiada: Despliegue de Servidor VOD con Plex y Docker](https://colab.research.google.com/drive/1tasWzgE1_EdXOUiX54Ddzvkx-_0L7v90?usp=sharing)
 
