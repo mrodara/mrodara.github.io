@@ -7,8 +7,8 @@ layout: default
 ### PRESENTACIONES  
 
 #### UT01-Servicios de configuración automática de red
-* [SRI-UT01-Servicios de configuración automática de red](../presentaciones/SRI/SRI-UT01-Presentación%20Servicio%20DHCP.pdf)(PDF)
-* [SRI-UT01-Servicios de configuración automática de red](../presentaciones/SRI/SRI-UT01-Presentación%20Servicio%20DHCP.pptx)(PowerPoint)
+* [SRI-UT01-Servicios de configuración automática de red](../presentaciones/SRI/SRI-UT01-DHCP.pdf)(PDF)
+* [SRI-UT01-Servicios de configuración automática de red](../presentaciones/SRI/SRI-UT01-DHCP.pptx)(PowerPoint)
 
 * [SRI-UT02-Servicios de nombres de dominio](https://slides.com/manueljesusrodriguezarabi/deck-2b09b4/fullscreen)  
 * [SRI-UT04-Servicios de transferencia de archivos](https://slides.com/manueljesusrodriguezarabi/sri-ut02-servicios-de-nombres-de-dominio/fullscreen)  
