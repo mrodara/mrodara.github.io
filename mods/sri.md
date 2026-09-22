@@ -31,10 +31,9 @@ layout: default
 ### TUTORIALES  
 
 #### UT01 Servicios de configuración automática de red
-* [SRI-01-01-Instalación del servicio DHCP en Ubuntu Server 20.04.3](https://docs.google.com/document/d/13mH4C-YDlYeXPbv_PJqyFJYQWNkZjs5oO1Af6zSJ7ws/edit?usp=sharing)
-* [SRI-01-02-Instalar Webmin en Ubuntu 20.04](https://docs.google.com/document/d/19hWwATwHeHlnya7nX7Ni0wL8iI9bzTR0xbCmACs3SSU/edit?usp=sharing)  
-* [SRI-UT01-Docker-AP-Implementación de un servidor DHCP usando Docker para conectar contenedores clientes](https://docs.google.com/document/d/1KqlScm5r9IAXq_ir9A59rqEuuyFL0oFVTwr4QAuHNKg/edit?usp=sharing)  
-* [SRI-UT01-Docker-AP-Configuración de un Servidor DHCP con Webmin en un Contenedor Docker](https://docs.google.com/document/d/1yjf-iTbEyUELlknAZ2nwP1LEzXNNtHu7GT6yz1JH59k/edit?usp=sharing)  
+  
+* [SRI-DOCKER-UT01-01 — DHCP con Docker CLI y dos clientes](https://drive.google.com/file/d/14_fSSeI6W8Psyzb-jFYsu19jgXZEDMIz/view?usp=sharing)  
+* [SRI-DOCKER-UT01-02 — DHCP con Webmin, Kea y Docker Desktop](https://drive.google.com/file/d/1_ZZneKwndJ30TD9gN1Ooee6WCpx6NkQO/view?usp=sharing)  
 
 #### UT02 Servicios de nombres de dominio
 * [SRI-02-01-Cómo configurar BIND como servidor DNS de red privada en Ubuntu 20.04](https://docs.google.com/document/d/1WwTKaLDmJOoGKglI_ieSJ9igHYemDFHT5qA6omH2f90/edit?usp=sharing)  
