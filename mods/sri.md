@@ -26,6 +26,8 @@ layout: default
 * [SRI-DOCKER-Ventajas e Instalación: Sistemas Unix y Windows WSL (Google Colab)](https://colab.research.google.com/drive/17HdLEz5saQaJdnzsYOVEgsdgZpiuggtx?usp=sharing)
 * [SRI-DOCKER-Anexo I: Contenerización con Docker (GUIADA)](../documentos/AnexoI_Contenerizacion_con_docker.zip)
 * [SRI-DOCKER-00: Primeros pasos sobre el uso de contenedores Docker (Google Colab)](https://drive.google.com/file/d/1kUd_p7882-nmc6ycdbbNtpnkICxBlCyd/view?usp=sharing)
+---
+* [SRI-DOCKER-01: 🐳 Guía Práctica de Redes en Docker (Google Colab)](https://colab.research.google.com/drive/1aMMsZnAa37-aUzgO1i92bzw488hAVucm?usp=sharing)
 
 
 ### TUTORIALES  
