@@ -18,7 +18,7 @@ layout: default
 
 ### ACTIVIDADES PREVIAS
 
-* [Enlace Temporal: Unidad Guiada UT01 Servicios de configuración automática de red](https://drive.google.com/file/d/1FQKUd9JK7yA7SeIIv6OLzZkueXkox7Y-/view?usp=sharing)
+* [Enlace Temporal: Unidad Guiada UT01 Servicios de configuración automática de red](https://drive.google.com/file/d/1Iw0D1WTLTYMRkaZ1LH50clH3k_yCkDdg/view?usp=sharing)
 * [Enlace Temporal: Tarea Online UT01 Servicios de configuración automática de red](https://drive.google.com/file/d/15bi3Y1hNQx_kRNdzBpgva8Pb09B99sfQ/view?usp=sharing)
 * [SRI-DOCKER-Ventajas e Instalación: Sistemas Unix y Windows WSL (Google Colab)](https://colab.research.google.com/drive/17HdLEz5saQaJdnzsYOVEgsdgZpiuggtx?usp=sharing)
 * [SRI-DOCKER-Anexo I: Contenerización con Docker (GUIADA)](../documentos/AnexoI_Contenerizacion_con_docker.zip)
