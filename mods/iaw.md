@@ -9,8 +9,12 @@ layout: default
 #### UT01-Instalación de Servidores de aplicaciones web
 * [UT01-Instalación de Servidores de aplicaciones web](../presentaciones/IAW/IAW-UT01-slides.pdf)(PDF)
 * [UT01-Instalación de Servidores de aplicaciones web](../presentaciones/IAW/IAW-Ut01-slides.pptx)(PowerPoint)
+
+#### UT02-Instalación de Servidores de gestores de contenidos
   
-* [UT02-Instalación de Servidores de gestores de contenidos](https://slides.com/manueljesusrodriguezarabi/iaw-ut01-instalacion-de-servidores-de-aplicaciones-web/fullscreen)  
+* [UT02-Instalación de Servidores de gestores de contenidos](../presentaciones/IAW/IAW-UT02-slides.pdf)(PDF)  
+* [UT02-Instalación de Servidores de gestores de contenidos](../presentaciones/IAW/IAW-UT02-slides.pptx)(Powerpoint)
+    
 * [UT04-Implantación de aplicaciones de ofimática web](https://slides.com/manueljesusrodriguezarabi/iaw-ut02-instalacion-de-servidores-de-gestores-de-contenidos/fullscreen)  
 * [UT05-Programación de documentos web utilizando lenguajes de script de servidor](https://slides.com/manueljesusrodriguezarabi/iaw-ut04-implantacion-de-aplicaciones-de-ofimatica-web/fullscreen)  
 * [UT06-Acceso a bases de datos desde lenguajes de script de servidor](https://slides.com/manueljesusrodriguezarabi/code/fullscreen)  
@@ -36,7 +40,10 @@ layout: default
 
 #### UT02  
 
-* [06 - Tutorial Instalación de Moodle en Ubuntu 20.04](https://docs.google.com/document/d/1dMdd4Zt6W1UOwpWmtGZHlK3FTtbcsfc1PhyIVYghB4I/edit?usp=sharing)  
+* [05 - Tutorial Paso a Paso Wordpress sobre una pila LAMP con Docker](https://drive.google.com/file/d/1KngkCpwV6vfoT6Ej6c_fRITzkcZmopM4/view?usp=sharing)  
+* [05 - Tutorial Paso a Paso Prestashop sobre una pila LAMP con Docker y Portainer](https://drive.google.com/file/d/1pjtg1IcC74CjqDqOuy7dShgM83fSa-pW/view?usp=sharing)  
+
+#### UT03
 
 #### UT04
 
