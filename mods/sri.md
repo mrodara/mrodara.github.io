@@ -9,7 +9,13 @@ layout: default
 
 * [SRI-UT01-Servicios de configuración automática de red](../presentaciones/SRI/SRI-UT01-DHCP.pdf)(PDF)
 * [SRI-UT01-Servicios de configuración automática de red](../presentaciones/SRI/SRI-UT01-DHCP.pptx)(PowerPoint)
-* [SRI-UT02-Servicios de nombres de dominio](https://slides.com/manueljesusrodriguezarabi/deck-2b09b4/fullscreen)
+
+#### UT02-Servicios de resolución de nombres de dominio
+
+* [SRI-UT02-Servicios de resolución de nombres de dominio](../presentaciones/SRI/SRI-UT02-slides.pdf)(PDF)
+* [SRI-UT02-Servicios de resolución de nombres de dominio](../presentaciones/SRI/SRI-UT02-slides.pptx)(PowerPoint)
+* [SRI-UT02-Servicios de nombres de dominio](https://slides.com/manueljesusrodriguezarabi/deck-2b09b4/fullscreen)(slides.com)
+
 * [SRI-UT04-Servicios de transferencia de archivos](https://slides.com/manueljesusrodriguezarabi/sri-ut02-servicios-de-nombres-de-dominio/fullscreen)
 * [SRI-UT05-Servicios de correo electrónico](https://slides.com/manueljesusrodriguezarabi/sri-ut04-servicios-de-transferencia-de-archivos/fullscreen)
 * [SRI-UT06-Servicios de mensajería instantánea, noticias y listas de distribución](https://slides.com/manueljesusrodriguezarabi/desk/fullscreen)
@@ -37,11 +43,8 @@ layout: default
 
 #### UT02 Servicios de nombres de dominio
 
-* [SRI-02-01-Cómo configurar BIND como servidor DNS de red privada en Ubuntu 20.04](https://docs.google.com/document/d/1WwTKaLDmJOoGKglI_ieSJ9igHYemDFHT5qA6omH2f90/edit?usp=sharing)
-* [SRI-02-01-Docker-Cómo configurar BIND como servidor DNS de red privada](https://docs.google.com/document/d/12JdCr6j1V1Yl6r3CqzFXCQ2WmVWKLjOTWZXbDMYJsq0/edit?usp=sharing)
-* [SRI-02-02-Configurar Servidor de dominio y DNS en Windows Server 2019](https://docs.google.com/document/d/13O8FzUhSBpmBNP6Sg531h7MNnj9QXR-meDXCA3COKZQ/edit?usp=sharing)
-* [SRI-02-03-Configuración de un Servidor DNS Esclavo con Bind9](https://docs.google.com/document/d/1wZqSDGTY9oomWF0h9b2DlxjnVbvKeAVVAJ6ZKaofUSw/edit?usp=sharing)
-* [SRI-UT02-Docker-AP: Configuración de un Servicio DNS Bind en Docker](https://docs.google.com/document/d/1Z_hJn6H2a1NnqlyUgePF5JBcyxrRjKuYqkxxEJLfEZc/edit?usp=sharing)
+* [SRI-DOCKER-UT02- DNS Autoritativo primario con Docker](https://drive.google.com/file/d/1iOc2_vU7d6G_JH2Yj77jFuuSI48BAa2J/view?usp=sharing)
+
 
 #### UT03 Servicio Web
 
