@@ -14,6 +14,8 @@ layout: default
   
 * [UT02-Instalación de Servidores de gestores de contenidos](../presentaciones/IAW/IAW-UT02-slides.pdf)(PDF)  
 * [UT02-Instalación de Servidores de gestores de contenidos](../presentaciones/IAW/IAW-UT02-slides.pptx)(Powerpoint)
+* [UT02-El Ecosistema CMS](../presentaciones/IAW/ecosistema-cms.pdf)(PDF)  
+* [UT02-El Ecosistema CMS](../presentaciones/IAW/ecosistema-cms.pptx)(Powerpoint)
     
 * [UT04-Implantación de aplicaciones de ofimática web](https://slides.com/manueljesusrodriguezarabi/iaw-ut02-instalacion-de-servidores-de-gestores-de-contenidos/fullscreen)  
 * [UT05-Programación de documentos web utilizando lenguajes de script de servidor](https://slides.com/manueljesusrodriguezarabi/iaw-ut04-implantacion-de-aplicaciones-de-ofimatica-web/fullscreen)  
