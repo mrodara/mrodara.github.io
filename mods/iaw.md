@@ -49,7 +49,8 @@ layout: default
 #### UT02  
 
 * [05 - Tutorial Paso a Paso Wordpress sobre una pila LAMP con Docker](https://drive.google.com/file/d/1KngkCpwV6vfoT6Ej6c_fRITzkcZmopM4/view?usp=sharing)  
-* [06 - Tutorial Paso a Paso Prestashop sobre una pila LAMP con Docker y Portainer](https://drive.google.com/file/d/1pjtg1IcC74CjqDqOuy7dShgM83fSa-pW/view?usp=sharing)  
+* [06 - Tutorial Paso a Paso Wordpress sobre una pila LAMP propia](https://drive.google.com/file/d/1KLN76Ohsfy0byI4s38GY6J4kYGbKrySJ/view?usp=sharing)  
+* [07 - Tutorial Paso a Paso Prestashop sobre una pila LAMP con Docker y Portainer](https://drive.google.com/file/d/1pjtg1IcC74CjqDqOuy7dShgM83fSa-pW/view?usp=sharing)  
 
 #### UT03
 
