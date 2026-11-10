@@ -53,15 +53,7 @@ layout: default
 
 #### UT03 Servicio Web
 
-* [SRI-03-01 - Habilitar IIS en Windows Server 2019](https://docs.google.com/document/d/1t0BYJdOLcUn3x930PiwsFH9Ds_0NIwoIO5EKfRSPcLs/edit?usp=sharing)
-* [SRI-03-01-Docker - Tutorial: docker-compose e Implementación de una Pila LAMP con Docker](https://docs.google.com/document/d/1VExHud5nmdOxes4akheUmSdb8YqYNRj_hXbjQv1DfzI/edit?usp=sharing)
-* [SRI-03-02-Docker - Tutorial: Implementación de Webmin en una Pila LAMP Docker](https://docs.google.com/document/d/1OxDBGn9rbIBgDK2DV-T4IADvIN2H9vbU2efNkui0JVg/edit?usp=sharing)
-* [SRI-03-02 - Tutorial: Instalación Manual de Apache](https://docs.google.com/document/d/1jwjqaS1a8ck-DKe7FUTutS03L2L86gSH2j4onT6iHTU/edit?usp=sharing)
-* [SRI-03-03 - Tutorial Instalación de MySQL en Ubuntu](https://docs.google.com/document/d/1IHjZUxZ7QPbzweq-cW-vk4FzWbuYyP7MZbVm1dRTaEk/edit?usp=sharing)
-* [SRI-03-04 - Tutorial Crear usuarios en Servidor MySQL](https://docs.google.com/document/d/1e7IxqwJPpDfnVrZKUMGs1abM3_BvCzxz5_OWEBDRjcg/edit?usp=sharing)
-* [SRI-03-05 - Tutorial Instalar PHP7.4 en Ubuntu 20.04](https://docs.google.com/document/d/11LEQEer5rJ1OwUc69WaeclO0SBO0W20CKcEWLsiywQ0/edit?usp=sharing)
-* [SRI-03-06 - Tutorial Creación VirtualHost Apache en Ubuntu 20.04](https://docs.google.com/document/d/12Fyfh3Upn_zqNk-b68oYwVdn8Q0FWe2MEKBvDjVutxE/edit?usp=sharing)
-* [SRI-03-07 - Tutorial Crear Virtual Hosts con IIS de Windows Server 2019](https://docs.google.com/document/d/13ZQ6X2TACHuxaDGo19q_6dACqxMnbxSIvthQZfoQh7Y/edit?usp=sharing)
+* [SRI-DOCKER-UT03 - Pila LAMP paso a paso con VHosts y SSL](https://drive.google.com/file/d/1vMZ2CjFuMHh7m0-fCwwOuj4qWzu4_LIk/view?usp=sharing)
 
 #### UT04 Servicios de transferencia de archivos
 
