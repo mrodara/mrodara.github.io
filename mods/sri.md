@@ -54,6 +54,7 @@ layout: default
 #### UT03 Servicio Web
 
 * [SRI-DOCKER-UT03 - Pila LAMP paso a paso con VHosts y SSL](https://drive.google.com/file/d/1vMZ2CjFuMHh7m0-fCwwOuj4qWzu4_LIk/view?usp=sharing)
+* [SRI-DOCKER-UT03 - Pila LAMP paso a paso con VHosts, SSL, controles de acceso y autenticación](https://drive.google.com/file/d/1K7TEQiVi9wB5jzxMM1HdhYcZ91mZJGme/view?usp=sharing)
 
 #### UT04 Servicios de transferencia de archivos
 
